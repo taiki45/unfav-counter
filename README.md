@@ -1,4 +1,4 @@
-# Unfav checker
+# Unfav Counter
 いつもの日常… [@enkunkun](https://twitter.com/enkunkun) はあんふぁぼを監視して通知していました。
 
 ところがある日[こんな要望がきたのです](https://twitter.com/tenzingumo/status/307954741231636480)。
